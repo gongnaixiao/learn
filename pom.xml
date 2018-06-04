@@ -13,6 +13,8 @@
         <module>parent</module>
         <module>learn-ehcache</module>
         <module>learn-tomcat</module>
+        <module>learn-tmp</module>
+        <module>learn-dubbo</module>
     </modules>
 
 </project>
