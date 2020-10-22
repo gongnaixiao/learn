@@ -46,7 +46,7 @@ public class HelloEhcache {
 
         //cm.addCache("cache1");
 
-        //2. Get a cache called "cache1", declared in ehcache.xml
+        //2. Get a cache called "cache1", declared in guava.xml
         Cache cache = cm.getCache("cache1");
 
         //3. Put few elements in cache

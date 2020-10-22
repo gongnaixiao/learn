@@ -1,6 +1,6 @@
+import api.NotifyListener;
+import api.Registry;
 import com.alibaba.dubbo.common.URL;
-import com.gongnaixiao.learn.dubbo.api.NotifyListener;
-import com.gongnaixiao.learn.dubbo.api.Registry;
 
 import java.io.File;
 import java.util.List;
