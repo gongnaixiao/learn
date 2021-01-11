@@ -7,7 +7,7 @@ import net.sf.ehcache.Element;
 public class EhcacheTest {
     public static void run() {
         // 1. 创建缓存管理器
-        CacheManager cacheManager = CacheManager.create("./src/main/resources/ehcache.xml");
+        CacheManager cacheManager = CacheManager.create("./src/main/resources/guava.xml");
 
         // 2. 获取缓存对象
         Cache cache = cacheManager.getCache("HelloWorldCache");

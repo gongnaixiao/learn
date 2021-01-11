@@ -15,6 +15,7 @@
         <module>learn-tomcat</module>
         <module>learn-tmp</module>
         <module>learn-dubbo</module>
+        <module>learn-springboot</module>
     </modules>
 
 </project>
